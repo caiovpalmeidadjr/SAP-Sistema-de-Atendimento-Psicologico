@@ -1,0 +1,10 @@
+package br.com.sitemaatendimentopsicologico.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import br.com.sitemaatendimentopsicologico.model.Psicologo;
+
+//importando a classe nativa do spring com os métodos padroes crud
+public interface PsicologoRepository extends JpaRepository<Psicologo, Long> {
+
+}

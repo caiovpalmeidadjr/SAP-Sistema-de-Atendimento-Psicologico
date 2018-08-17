@@ -1,0 +1,5 @@
+package br.com.sitemaatendimentopsicologico.repository;
+
+public interface PsicologoRepository {
+
+}

@@ -1,0 +1,12 @@
+package br.com.sitemaatendimentopsicologico.test;
+
+import org.junit.runner.RunWith;
+import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
+
+@RunWith(SpringRunner.class)
+@DataJpaTest
+public class TestPsicologoRepository {
+
+	
+	
+}

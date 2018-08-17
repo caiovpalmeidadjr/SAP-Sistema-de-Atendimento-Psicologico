@@ -1,0 +1,8 @@
+package br.com.sitemaatendimentopsicologico.test;
+
+//test JPA
+public class TestPsicologoRepository {
+
+	
+	
+}

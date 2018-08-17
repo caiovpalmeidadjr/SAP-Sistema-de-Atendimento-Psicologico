@@ -1,0 +1,15 @@
+package br.com.sitemaatendimentopsicologico.test;
+
+import org.junit.runner.RunWith;
+import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
+import org.springframework.test.context.junit4.SpringRunner;
+
+// @RunWith(SpringRunner.class) Rodando classe de test do JUnit usando o Spring
+// @DataJpaTest ... Não suja o Banco de dados ao Usar a camada de persistencia 
+@RunWith(SpringRunner.class)
+@DataJpaTest
+public class TestPsicologoRepository {
+
+	
+	
+}
