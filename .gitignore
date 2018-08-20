@@ -1,29 +1,22 @@
-*target*
-*.jar
-*.war
-*.ear
 *.class
-
-# eclipse specific git ignore
-*.pydevproject
-.project
 .metadata
-bin/**
-tmp/**
-tmp/**/*
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
-.classpath
-.settings/
-.loadpath
+.settings
 
-# External tool builders
-.externalToolBuilders/
+bin
+classes
+Servers
+Index.html
 
-# Locally stored "Eclipse launch configurations"
-*.launch
-*.metadata
-.metadata/.log
+EPCPlanWeb/WebContent/assets
+EPCPlanWeb/WebContent/history
+EPCPlanWeb/WebContent/*.swf
+EPCPlanWeb/WebContent/swfobject.js
+
+EPCPlanFlexView/html-template/*.swf
+
+workspace/
+LibUtil_Crud/bin-debug/LibUtil_Crud.swc
+LibUtil_Flex/bin-debug/LibUtil_Flex.swc
+EPCPlanWeb/WebContent/Movimento_Mercadorias-1.wsdl.orig
+.idea/
+*.iml
