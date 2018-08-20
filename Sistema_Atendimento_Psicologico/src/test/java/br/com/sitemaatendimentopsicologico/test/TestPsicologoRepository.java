@@ -13,7 +13,7 @@ import br.com.sitemaatendimentopsicologico.repository.PsicologoRepository;
 import junit.framework.Assert;
 
 // @RunWith(SpringRunner.class) Rodando classe de test do JUnit usando o Spring
-// @DataJpaTest ... Não suja o Banco de dados ao Usar a camada de persistencia 
+// @DataJpaTest ... Não suja o Banco de dados ao Usar a camada de persistencia, ele cria um banco interno e faz os testes
 @RunWith(SpringRunner.class)
 @DataJpaTest
 @AutoConfigureTestDatabase(replace=Replace.NONE)

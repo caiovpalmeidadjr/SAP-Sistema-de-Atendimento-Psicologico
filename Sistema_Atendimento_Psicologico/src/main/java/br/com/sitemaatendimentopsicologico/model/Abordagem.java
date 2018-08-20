@@ -1,8 +1,15 @@
 package br.com.sitemaatendimentopsicologico.model;
 
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+
+@Entity
 public class Abordagem {
 
-	private long id;
+	@Id
+	@GeneratedValue
+	private Long id;
 	private String nome;
 	private Psicologo psicologo;
 	private TipoAbordagem tipoAbordagem;

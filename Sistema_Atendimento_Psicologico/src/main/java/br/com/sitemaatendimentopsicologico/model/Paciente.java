@@ -2,6 +2,9 @@ package br.com.sitemaatendimentopsicologico.model;
 
 import java.time.LocalDate;
 
+import javax.persistence.JoinColumn;
+import javax.persistence.OneToOne;
+
 public class Paciente {
 
 	private Long id;
@@ -10,7 +13,7 @@ public class Paciente {
 	private String telefone;
 	private String celular;
 	private String email;
-	private String queixa;
+	private Queixa queixa;
 	private Consulta consulta;
 	private Doenca doenca;
 
@@ -61,12 +64,14 @@ public class Paciente {
 	public void setEmail(String email) {
 		this.email = email;
 	}
-
-	public String getQueixa() {
+	
+	@OneToOne
+	@JoinColumn(name = "id_queixa")
+	public Queixa getQueixa() {
 		return queixa;
 	}
 
-	public void setQueixa(String queixa) {
+	public void setQueixa(Queixa queixa) {
 		this.queixa = queixa;
 	}
 
