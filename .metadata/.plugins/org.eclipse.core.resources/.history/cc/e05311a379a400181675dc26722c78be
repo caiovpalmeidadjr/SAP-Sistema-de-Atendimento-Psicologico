@@ -1,0 +1,23 @@
+package br.com.sitemaatendimentopsicologico.model;
+
+import java.time.LocalDate;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+
+@Entity
+public class Psicologo {
+
+	@Id
+	@GeneratedValue
+	private Long id;
+	private String nome;
+	private int crp;
+	private Abordagem Abordagem;
+	private String email;
+	private LocalDate dataDeNascimento;
+	
+
+	
+}

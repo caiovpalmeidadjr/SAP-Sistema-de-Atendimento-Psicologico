@@ -15,7 +15,6 @@ public class Psicologo {
 	private String nome;
 	private int crp;
 	private Abordagem Abordagem;
-	private Consulta consulta;
 	private String email;
 	private LocalDate dataDeNascimento;
 
@@ -49,14 +48,6 @@ public class Psicologo {
 
 	public void setAbordagem(Abordagem abordagem) {
 		Abordagem = abordagem;
-	}
-
-	public Consulta getConsulta() {
-		return consulta;
-	}
-
-	public void setConsulta(Consulta consulta) {
-		this.consulta = consulta;
 	}
 
 	public String getEmail() {

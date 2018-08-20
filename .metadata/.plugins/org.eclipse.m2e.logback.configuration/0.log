@@ -1154,3 +1154,88 @@
 2018-08-17 17:38:06,905 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-08-17 17:38:06,914 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-08-17 17:38:06,914 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\TCC - Projeto Final\SAP-Sistema-de-Atendimento-Psicologico\Sistema_Atendimento_Psicologico\src\test\resources
+2018-08-20 09:56:10,861 [Worker-667: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 09:56:10,878 [Worker-667: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-20 09:56:10,889 [Worker-667: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-20 09:56:10,895 [Worker-667: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 09:56:10,896 [Worker-667: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\TCC - Projeto Final\SAP-Sistema-de-Atendimento-Psicologico\Sistema_Atendimento_Psicologico\src\test\resources
+2018-08-20 09:57:53,819 [Worker-664: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 09:57:53,822 [Worker-664: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-20 09:57:53,885 [Worker-664: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-20 09:57:53,895 [Worker-664: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 09:57:53,895 [Worker-664: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\TCC - Projeto Final\SAP-Sistema-de-Atendimento-Psicologico\Sistema_Atendimento_Psicologico\src\test\resources
+2018-08-20 09:58:18,437 [Worker-664: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 09:58:18,439 [Worker-664: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-20 09:58:18,481 [Worker-664: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-20 09:58:18,487 [Worker-664: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 09:58:18,487 [Worker-664: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\TCC - Projeto Final\SAP-Sistema-de-Atendimento-Psicologico\Sistema_Atendimento_Psicologico\src\test\resources
+2018-08-20 09:59:03,718 [Worker-668: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 09:59:03,726 [Worker-668: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-20 09:59:03,868 [Worker-668: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-20 09:59:03,875 [Worker-668: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 09:59:03,875 [Worker-668: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\TCC - Projeto Final\SAP-Sistema-de-Atendimento-Psicologico\Sistema_Atendimento_Psicologico\src\test\resources
+2018-08-20 10:04:20,128 [Worker-669: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:04:20,130 [Worker-669: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-20 10:04:20,169 [Worker-669: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-20 10:04:20,175 [Worker-669: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:04:20,176 [Worker-669: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\TCC - Projeto Final\SAP-Sistema-de-Atendimento-Psicologico\Sistema_Atendimento_Psicologico\src\test\resources
+2018-08-20 10:04:58,101 [Worker-671: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:04:58,104 [Worker-671: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-20 10:04:58,115 [Worker-671: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-20 10:04:58,127 [Worker-671: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:04:58,127 [Worker-671: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\TCC - Projeto Final\SAP-Sistema-de-Atendimento-Psicologico\Sistema_Atendimento_Psicologico\src\test\resources
+2018-08-20 10:06:28,511 [Worker-672: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:06:28,513 [Worker-672: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-20 10:06:28,526 [Worker-672: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-20 10:06:28,532 [Worker-672: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:06:28,533 [Worker-672: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\TCC - Projeto Final\SAP-Sistema-de-Atendimento-Psicologico\Sistema_Atendimento_Psicologico\src\test\resources
+2018-08-20 10:06:47,008 [Worker-669: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:06:47,010 [Worker-669: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-20 10:06:47,021 [Worker-669: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-20 10:06:47,027 [Worker-669: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:06:47,027 [Worker-669: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\TCC - Projeto Final\SAP-Sistema-de-Atendimento-Psicologico\Sistema_Atendimento_Psicologico\src\test\resources
+2018-08-20 10:06:54,956 [Worker-668: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:06:54,958 [Worker-668: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-20 10:06:54,969 [Worker-668: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-20 10:06:54,974 [Worker-668: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:06:54,975 [Worker-668: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\TCC - Projeto Final\SAP-Sistema-de-Atendimento-Psicologico\Sistema_Atendimento_Psicologico\src\test\resources
+2018-08-20 10:07:11,216 [Worker-669: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:07:11,218 [Worker-669: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-20 10:07:11,232 [Worker-669: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-20 10:07:11,237 [Worker-669: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:07:11,238 [Worker-669: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\TCC - Projeto Final\SAP-Sistema-de-Atendimento-Psicologico\Sistema_Atendimento_Psicologico\src\test\resources
+2018-08-20 10:09:50,068 [Worker-673: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:09:50,070 [Worker-673: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-20 10:09:50,081 [Worker-673: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-20 10:09:50,086 [Worker-673: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:09:50,087 [Worker-673: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\TCC - Projeto Final\SAP-Sistema-de-Atendimento-Psicologico\Sistema_Atendimento_Psicologico\src\test\resources
+2018-08-20 10:10:28,443 [Worker-653: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:10:28,449 [Worker-653: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-20 10:10:28,459 [Worker-653: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-20 10:10:28,465 [Worker-653: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:10:28,465 [Worker-653: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\TCC - Projeto Final\SAP-Sistema-de-Atendimento-Psicologico\Sistema_Atendimento_Psicologico\src\test\resources
+2018-08-20 10:10:50,613 [Worker-653: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:10:50,615 [Worker-653: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-20 10:10:50,622 [Worker-653: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-20 10:10:50,627 [Worker-653: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:10:50,628 [Worker-653: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\TCC - Projeto Final\SAP-Sistema-de-Atendimento-Psicologico\Sistema_Atendimento_Psicologico\src\test\resources
+2018-08-20 10:10:53,587 [Worker-672: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:10:53,589 [Worker-672: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-20 10:10:53,597 [Worker-672: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-20 10:10:53,602 [Worker-672: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:10:53,602 [Worker-672: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\TCC - Projeto Final\SAP-Sistema-de-Atendimento-Psicologico\Sistema_Atendimento_Psicologico\src\test\resources
+2018-08-20 10:13:22,093 [Worker-668: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:13:22,095 [Worker-668: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-20 10:13:22,105 [Worker-668: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-20 10:13:22,110 [Worker-668: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:13:22,111 [Worker-668: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\TCC - Projeto Final\SAP-Sistema-de-Atendimento-Psicologico\Sistema_Atendimento_Psicologico\src\test\resources
+2018-08-20 10:13:30,945 [Worker-672: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:13:30,947 [Worker-672: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-20 10:13:30,977 [Worker-672: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-20 10:13:30,983 [Worker-672: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:13:30,983 [Worker-672: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\TCC - Projeto Final\SAP-Sistema-de-Atendimento-Psicologico\Sistema_Atendimento_Psicologico\src\test\resources
+2018-08-20 10:13:50,856 [Worker-668: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:13:50,858 [Worker-668: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-20 10:13:50,866 [Worker-668: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-20 10:13:50,871 [Worker-668: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 10:13:50,872 [Worker-668: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\TCC - Projeto Final\SAP-Sistema-de-Atendimento-Psicologico\Sistema_Atendimento_Psicologico\src\test\resources

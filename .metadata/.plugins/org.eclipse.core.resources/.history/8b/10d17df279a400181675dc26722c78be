@@ -1,0 +1,10 @@
+package br.com.sitemaatendimentopsicologico.model;
+
+public class Abordagem {
+	
+	private long id;
+	private String nome; 
+	private Psicologo psicologo;
+	private TipoAbordagem tipoAbordagem;
+
+}

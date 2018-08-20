@@ -51,14 +51,6 @@ public class Psicologo {
 		Abordagem = abordagem;
 	}
 
-	public Consulta getConsulta() {
-		return consulta;
-	}
-
-	public void setConsulta(Consulta consulta) {
-		this.consulta = consulta;
-	}
-
 	public String getEmail() {
 		return email;
 	}
