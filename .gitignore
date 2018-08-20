@@ -25,4 +25,5 @@ local.properties
 
 # Locally stored "Eclipse launch configurations"
 *.launch
-.metadata/**
+*.metadata
+.metadata/.log
